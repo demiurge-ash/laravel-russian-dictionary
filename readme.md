@@ -14,7 +14,7 @@ bind - **привязать** (~~байндить, забайндить~~)
 
 [collection](https://laravel.com/docs/master/collections) - **коллекция** (~~колекшэн~~)
 
-[contract] - **контракт**
+[contract](https://laravel.com/docs/master/contracts) - **контракт**
 
 [controller](https://laravel.com/docs/master/controllers) - **контроллер**
 
@@ -50,7 +50,7 @@ model - **модель**
 
 [pagination](https://laravel.com/docs/master/pagination) - **пагинация**
 
-partial (routes, views) - **частичные** (~~паршлы~~)
+[partial](https://laravel.com/docs/master/blade#control-structures) (routes, views) - **частичные** (~~паршлы~~)
 
 [query builder](https://laravel.com/docs/master/queries) - **составитель запросов?** (~~квери билдер~~)
 
@@ -62,9 +62,9 @@ partial (routes, views) - **частичные** (~~паршлы~~)
 
 [response](https://laravel.com/docs/master/responses) - **ответ** (~~риспонз~~)
 
-resource controller - **?**
+[resource controller](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **?**
 
-restful - **?**
+[restful](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **?**
 
 [route](https://laravel.com/docs/master/routing) - **маршрут** (~~рут, раут, роут~~)
 
@@ -78,7 +78,7 @@ restful - **?**
 
 service - **сервис**
 
-service container, ioc - **контейнер** (~~сёрвис контейнер, иок~~)
+[service container, ioc](https://laravel.com/docs/master/container) - **контейнер** (~~сёрвис контейнер, иок~~)
 
 [session](https://laravel.com/docs/master/session) - **сессия**
 
@@ -86,13 +86,13 @@ service container, ioc - **контейнер** (~~сёрвис контейне
 
 [storage](https://laravel.com/docs/master/filesystem) - **хранилище** (~~сторэдж~~)
 
-task - **задача** (~~тэск, таска~~)
+[task](https://laravel.com/docs/master/scheduling) - **задача** (~~тэск, таска~~)
 
-template - **?** (~~темплейт, темпа~~)
+[template](https://laravel.com/docs/master/blade) - **шаблон** (~~темплейт, темпа~~)
 
 [testing](https://laravel.com/docs/master/testing) - **тестирование** (~~тестинг~~)
 
-[unserialization] - **десериализация**
+[unserialization](https://laravel.com/docs/master/eloquent-serialization) - **десериализация**
 
 [validation](https://laravel.com/docs/master/validation) - **валидация** (~~cверка, проверка~~)
 
