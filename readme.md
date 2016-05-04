@@ -1,8 +1,10 @@
 Словарь терминов Laravel
 
 [Обсуждение здесь](https://laravel.ru/forum/viewtopic.php?id=1561)
+
 [Статья здесь](https://laravel.ru/posts/383)
 
+---
 
 [action](https://laravel.com/docs/master/controllers#basic-controllers) - **действие** (~~экшн~~)
 
