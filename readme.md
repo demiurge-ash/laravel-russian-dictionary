@@ -1,3 +1,7 @@
+![Словарь терминов Laravel](/assets/laravel-dictionary.png?raw=true)
+
+
+
 Словарь терминов Laravel
 
 [Обсуждение здесь](https://laravel.ru/forum/viewtopic.php?id=1561)
