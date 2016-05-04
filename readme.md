@@ -1,5 +1,3 @@
-#Словарь терминов Laravel
-
 ![Словарь терминов Laravel](/assets/laravel-dictionary.png?raw=true)
 
 ---
