@@ -4,7 +4,7 @@
 
 [Обсуждение здесь](https://laravel.ru/forum/viewtopic.php?id=1561)
 
-[Статья здесь](https://laravel.ru/posts/383)
+[Статья здесь](https://laravel.ru/terms)
 
 ---
 
