@@ -12,6 +12,8 @@
 
 advanced — **продвинутый**
 
+anonymous function (nameless function, lambda) - **анонимная функция (безымянная функция, лямбда)**
+
 [artisan](https://laravel.com/docs/master/artisan) - **artisan, командный интерфейс** (~~артизан~~)
 
 [authentication](https://laravel.com/docs/master/authentication) - **аутентификация**
@@ -24,6 +26,8 @@ bind - **привязать** (~~байндить, забайндить~~)
 
 binding - **привязка** (~~байндинг~~)
 
+branch - **ветка**
+
 build - **сборка**
 
 bundle - **пакет**
@@ -34,7 +38,17 @@ bus — **шина**
 
 [caching](https://laravel.com/docs/master/cache) - **кэширование** (~~кэшинг~~)
 
+checkout - **?**
+
+CI, constant integration - **постоянная интеграция**
+
+clone - **клонирование**
+
+closure - **замыкание**
+
 [collection](https://laravel.com/docs/master/collections) - **коллекция** (~~колекшэн~~)
+
+commit - **фиксация изменений, коммит**
 
 [contract](https://laravel.com/docs/master/contracts) - **контракт**
 
@@ -52,9 +66,17 @@ facade — **фасад**
 
 [firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события** (~~файринг, выстрел~~)
 
+fork - **ответвление**
+
 form - **форма**
 
+footer - **подвал** (в разметке)
+
+framework - **фреймворк**
+
 [hashing](https://laravel.com/docs/master/hashing) - **хэширование** (~~хэшинг~~)
+
+header - **шапка** (в разметке), **заголовок** (в запросе, ответе)
 
 [helper](https://laravel.com/docs/master/helpers) - **помощник** (~~хэлпер~~)
 
@@ -62,11 +84,17 @@ form - **форма**
 
 [input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные** (~~инпут~~)
 
+integrity - **целостность (БД)**
+
+merge - **слияние**
+
 [middleware](https://laravel.com/docs/master/middleware) - **посредник** (~~мидл, мидлвэр, промежуточное ПО~~)
 
 migration — **миграция** (~~мигрейшн~~)
 
 [mocking](https://laravel.com/docs/master/testing#mocking) - **имитация, подделка** (~~мокинг, мокить~~)
+
+layout - **раскладка** (клавиатуры, элементов)
 
 lifecycle - **цикл жизни?**
 
@@ -78,6 +106,8 @@ log — **журнал**
 
 logging — **журналирование**
 
+markup - **разметка**
+
 model - **модель**
 
 normalize - **?**
@@ -87,6 +117,8 @@ package - **пакет**
 [pagination](https://laravel.com/docs/master/pagination) - **пагинация**
 
 [partial](https://laravel.com/docs/master/blade#control-structures) (routes, views) - **частичные** (~~паршлы~~)
+
+pattern - **шаблон**
 
 [query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
 
@@ -120,7 +152,11 @@ service provider - **поставщик услуг?**
 
 [session](https://laravel.com/docs/master/session) - **сессия**
 
+sidebar - **боковая панель**
+
 [stack](https://laravel.com/docs/master/blade#stacks) - **?**
+
+status bar - **строка состояния**
 
 [storage](https://laravel.com/docs/master/filesystem) - **хранилище** (~~сторэдж~~)
 
@@ -129,6 +165,8 @@ service provider - **поставщик услуг?**
 [template](https://laravel.com/docs/master/blade) - **шаблон** (~~темплейт, темпа~~)
 
 [testing](https://laravel.com/docs/master/testing) - **тестирование** (~~тестинг~~)
+
+toolbar - **панель инструментов**
 
 unit-test — **unit-тесты**
 
