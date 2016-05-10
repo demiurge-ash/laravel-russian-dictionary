@@ -14,7 +14,11 @@ advanced — **продвинутый**
 
 anonymous function (nameless function, lambda) - **анонимная функция (безымянная функция, лямбда)**
 
+app, application — **приложение**
+
 [artisan](https://laravel.com/docs/master/artisan) - **artisan, командный интерфейс** (~~артизан~~)
+
+asset - **ресурс**
 
 [authentication](https://laravel.com/docs/master/authentication) - **аутентификация**
 
@@ -58,11 +62,17 @@ commit - **фиксация изменений, коммит**
 
 [dependency injection, di](https://laravel.com/docs/master/controllers#dependency-injection-and-controllers) - **внедрение зависимоти** (~~дипенденси, инъекция~~)
 
+deploy - **развернуть (проект)** (~~деплоить~~)
+
 [encryption](https://laravel.com/docs/master/encryption) - **шифрование**
+
+environment - **окружение**
 
 [event](https://laravel.com/docs/master/events) - **событие** (~~ивэнт~~)
 
 facade — **фасад**
+
+fault tolerance - **отказоустойчивость**
 
 [firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события** (~~файринг, выстрел~~)
 
@@ -106,9 +116,15 @@ log — **журнал**
 
 logging — **журналирование**
 
+management - **управление**
+
 markup - **разметка**
 
+mixin - **примесь**
+
 model - **модель**
+
+namespace - **пространство имен**
 
 normalize - **?**
 
@@ -120,11 +136,15 @@ package - **пакет**
 
 pattern - **шаблон**
 
+production - **?**
+
 [query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
 
 [queue](https://laravel.com/docs/master/queues) - **очередь** (~~кью, ку~~)
 
 [relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **отношение? связь? зависимость** (~~релейшн~~)
+
+release - **выпуск?** (~~релиз~~)
 
 [request](https://laravel.com/docs/master/requests) - **запрос** (~~риквест~~)
 
@@ -154,6 +174,8 @@ service provider - **поставщик услуг?**
 
 sidebar - **боковая панель**
 
+staging - **?**
+
 [stack](https://laravel.com/docs/master/blade#stacks) - **?**
 
 status bar - **строка состояния**
@@ -167,6 +189,8 @@ status bar - **строка состояния**
 [testing](https://laravel.com/docs/master/testing) - **тестирование** (~~тестинг~~)
 
 toolbar - **панель инструментов**
+
+trait - **?**
 
 unit-test — **unit-тесты**
 
