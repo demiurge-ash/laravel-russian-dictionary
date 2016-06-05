@@ -26,9 +26,13 @@ basic - **базовые, основные**
 
 billing - **биллинг?**
 
+binary - **двоичный**
+
 bind - **привязать** (~~байндить, забайндить~~)
 
 binding - **привязка** (~~байндинг~~)
+
+bottleneck - **?**
 
 branch - **ветка**
 
@@ -44,7 +48,7 @@ bus — **шина**
 
 checkout - **?**
 
-CI, constant integration - **постоянная интеграция**
+CI, continuous integration - **постоянная интеграция**
 
 clone - **клонирование**
 
@@ -66,11 +70,15 @@ deploy - **развернуть (проект)** (~~деплоить~~)
 
 [encryption](https://laravel.com/docs/master/encryption) - **шифрование**
 
+enumeration - **перечисление**
+
 environment - **окружение**
 
 [event](https://laravel.com/docs/master/events) - **событие** (~~ивэнт~~)
 
 facade — **фасад**
+
+factory - **фабрика**
 
 fault tolerance - **отказоустойчивость**
 
@@ -94,7 +102,13 @@ header - **шапка** (в разметке), **заголовок** (в зап
 
 [input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные** (~~инпут~~)
 
+instance - **экземпляр**
+
 integrity - **целостность (БД)**
+
+iterable - **перечисляемый**
+
+iterator - **?**
 
 merge - **слияние**
 
@@ -128,6 +142,8 @@ namespace - **пространство имен**
 
 normalize - **?**
 
+notation - **нотация, форма представления**
+
 package - **пакет**
 
 [pagination](https://laravel.com/docs/master/pagination) - **пагинация**
@@ -141,6 +157,8 @@ production - **?**
 [query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
 
 [queue](https://laravel.com/docs/master/queues) - **очередь** (~~кью, ку~~)
+
+redirect - **перенаправление**
 
 [relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **отношение? связь? зависимость** (~~релейшн~~)
 
@@ -174,6 +192,8 @@ service provider - **поставщик услуг?**
 
 sidebar - **боковая панель**
 
+singleton - **?**
+
 staging - **?**
 
 [stack](https://laravel.com/docs/master/blade#stacks) - **?**
@@ -191,6 +211,8 @@ status bar - **строка состояния**
 toolbar - **панель инструментов**
 
 trait - **?**
+
+transaction - **транзация**
 
 unit-test — **unit-тесты**
 
