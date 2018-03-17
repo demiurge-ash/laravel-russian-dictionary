@@ -32,7 +32,7 @@ bind - **привязать** (~~байндить, забайндить~~)
 
 binding - **привязка** (~~байндинг~~)
 
-bottleneck - **?**
+bottleneck - **бутылочное горлышко, узкое место**
 
 branch - **ветка**
 
@@ -48,7 +48,7 @@ bus — **шина**
 
 checkout - **?**
 
-CI, continuous integration - **постоянная интеграция**
+CI, continuous integration - **непрерывная интеграция**
 
 clone - **клонирование**
 
@@ -64,7 +64,7 @@ commit - **фиксация изменений, коммит**
 
 [cookies](https://laravel.com/docs/master/requests#cookies) - **куки**
 
-[dependency injection, di](https://laravel.com/docs/master/controllers#dependency-injection-and-controllers) - **внедрение зависимоти** (~~дипенденси, инъекция~~)
+[dependency injection, di](https://laravel.com/docs/master/controllers#dependency-injection-and-controllers) - **внедрение зависимости** (~~дипенденси, инъекция~~)
 
 deploy - **развернуть (проект)** (~~деплоить~~)
 
@@ -108,7 +108,7 @@ integrity - **целостность (БД)**
 
 iterable - **перечисляемый**
 
-iterator - **?**
+iterator - **итератор**
 
 merge - **слияние**
 
@@ -120,7 +120,7 @@ migration — **миграция** (~~мигрейшн~~)
 
 layout - **раскладка** (клавиатуры, элементов)
 
-lifecycle - **цикл жизни?**
+lifecycle - **жизненный цикл**
 
 [listener](https://laravel.com/docs/master/events#defining-listeners) - **слушатель** (~~листенер~~)
 
@@ -152,7 +152,7 @@ package - **пакет**
 
 pattern - **шаблон**
 
-production - **?**
+production - **боевое окружение?**
 
 [query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
 
@@ -210,11 +210,11 @@ status bar - **строка состояния**
 
 toolbar - **панель инструментов**
 
-trait - **?**
+trait - **поведение**
 
 transaction - **транзация**
 
-unit-test — **unit-тесты**
+unit-test — **модульные тесты**
 
 [unserialization](https://laravel.com/docs/master/eloquent-serialization) - **десериализация**
 
