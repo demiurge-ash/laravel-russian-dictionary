@@ -8,6 +8,8 @@
 
 ---
 
+[accessor](https://laravel.com/docs/eloquent-mutators#accessors-and-mutators) - **читатель, метод доступа, аксессор**
+
 [action](https://laravel.com/docs/master/controllers#basic-controllers) - **действие** (~~экшн~~)
 
 advanced — **продвинутый**
@@ -16,7 +18,7 @@ anonymous function (nameless function, lambda) - **анонимная функц
 
 app, application — **приложение**
 
-[artisan](https://laravel.com/docs/master/artisan) - **artisan, командный интерфейс** (~~артизан~~)
+[artisan](https://laravel.com/docs/master/artisan) - **artisan, командный интерфейс**
 
 asset - **ресурс**
 
@@ -24,13 +26,15 @@ asset - **ресурс**
 
 basic - **базовые, основные**
 
+best practices - **лучшие практики**
+
 billing - **биллинг?**
 
 binary - **двоичный**
 
-bind - **привязать** (~~байндить, забайндить~~)
+bind - **привязать, забиндить**
 
-binding - **привязка** (~~байндинг~~)
+binding - **привязка**
 
 bottleneck - **бутылочное горлышко, узкое место**
 
@@ -44,7 +48,9 @@ bus — **шина**
 
 [cache](https://laravel.com/docs/master/cache) - **кэш**
 
-[caching](https://laravel.com/docs/master/cache) - **кэширование** (~~кэшинг~~)
+[caching](https://laravel.com/docs/master/cache) - **кэширование**
+
+camelCase - **верблюжийРегистр**
 
 checkout - **?**
 
@@ -54,9 +60,11 @@ clone - **клонирование**
 
 closure - **замыкание**
 
-[collection](https://laravel.com/docs/master/collections) - **коллекция** (~~колекшэн~~)
+[collection](https://laravel.com/docs/master/collections) - **коллекция**
 
 commit - **фиксация изменений, коммит**
+
+condition - **условие**
 
 [contract](https://laravel.com/docs/master/contracts) - **контракт**
 
@@ -80,6 +88,8 @@ facade — **фасад**
 
 factory - **фабрика**
 
+fallback - **резерв**
+
 fault tolerance - **отказоустойчивость**
 
 [firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события** (~~файринг, выстрел~~)
@@ -92,15 +102,15 @@ footer - **подвал** (в разметке)
 
 framework - **фреймворк**
 
-[hashing](https://laravel.com/docs/master/hashing) - **хэширование** (~~хэшинг~~)
+[hashing](https://laravel.com/docs/master/hashing) - **хэширование**
 
 header - **шапка** (в разметке), **заголовок** (в запросе, ответе)
 
-[helper](https://laravel.com/docs/master/helpers) - **помощник, хелпер** (~~хэлпер~~)
+[helper](https://laravel.com/docs/master/helpers) - **помощник, хелпер**
 
 [hook](https://laravel.com/docs/master/scheduling#task-hooks) - **хук?**
 
-[input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные** (~~инпут~~)
+[input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные**
 
 instance - **экземпляр**
 
@@ -112,17 +122,21 @@ iterator - **итератор**
 
 merge - **слияние**
 
-[middleware](https://laravel.com/docs/master/middleware) - **посредник** (~~мидл, мидлвэр, промежуточное ПО~~)
+[middleware](https://laravel.com/docs/master/middleware) - **посредник, мидлвар** (~~мидл, мидлвэр, промежуточное ПО~~)
 
 migration — **миграция** (~~мигрейшн~~)
 
 [mocking](https://laravel.com/docs/master/testing#mocking) - **имитация, подделка** (~~мокинг, мокить~~)
 
+[mutator](https://laravel.com/docs/5.8/eloquent-mutators#accessors-and-mutators) - **преобразователь**
+
+layer - **слой**
+
 layout - **раскладка** (клавиатуры, элементов)
 
 lifecycle - **жизненный цикл**
 
-[listener](https://laravel.com/docs/master/events#defining-listeners) - **слушатель** (~~листенер~~)
+[listener](https://laravel.com/docs/master/events#defining-listeners) - **слушатель**
 
 [localization](https://laravel.com/docs/master/localization) - **локализация**
 
@@ -140,7 +154,7 @@ model - **модель**
 
 namespace - **пространство имен**
 
-normalize - **?**
+normalize - **нормализовать**
 
 notation - **нотация, форма представления**
 
@@ -160,7 +174,7 @@ production - **продакшн, боевое окружение?**
 
 redirect - **перенаправление**
 
-[relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **отношение? связь? зависимость** (~~релейшн~~)
+[relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **отношение**
 
 release - **выпуск?** (~~релиз~~)
 
@@ -168,15 +182,17 @@ release - **выпуск?** (~~релиз~~)
 
 [response](https://laravel.com/docs/master/responses) - **ответ** (~~риспонз~~)
 
-[resource controller](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **контроллер ресурсов?, ресурсный контролле?**
+[resource controller](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **контроллер ресурсов?, ресурсный контроллер?**
 
 [restful](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **RESTful**
 
-[route](https://laravel.com/docs/master/routing) - **маршрут** (~~рут, раут, роут~~)
+[route](https://laravel.com/docs/master/routing) - **маршрут**
 
 [routing](https://laravel.com/docs/master/routing) - **маршрутизация** (~~рутинг, роутинг, раутинг~~)
 
 [schedule](https://laravel.com/docs/master/scheduling) - **раcписание** (~~скедул~~)
+
+[scope](https://laravel.com/docs/5.8/eloquent#query-scopes) - **скоуп**
 
 [seeding](https://laravel.com/docs/master/seeding) - **начальная загрузка?** (~~сидинг, сидить~~)
 
@@ -186,27 +202,31 @@ service - **сервис**
 
 [service container, ioc](https://laravel.com/docs/master/container) - **контейнер** (~~сёрвис контейнер, иок~~)
 
+service layer - **сервисный слой**
+
 service provider - **поставщик услуг?**
 
 [session](https://laravel.com/docs/master/session) - **сессия**
 
 sidebar - **боковая панель**
 
-singleton - **?**
+singleton - **синглтон, одиночка**
+
+snake_case - **змеиный_регистр**
 
 staging - **?**
 
-[stack](https://laravel.com/docs/master/blade#stacks) - **?**
+[stack](https://laravel.com/docs/master/blade#stacks) - **стек**
 
 status bar - **строка состояния**
 
-[storage](https://laravel.com/docs/master/filesystem) - **хранилище** (~~сторэдж~~)
+[storage](https://laravel.com/docs/master/filesystem) - **хранилище**
 
-[task](https://laravel.com/docs/master/scheduling) - **задача** (~~тэск, таска~~)
+[task](https://laravel.com/docs/master/scheduling) - **задача**
 
 [template](https://laravel.com/docs/master/blade) - **шаблон** (~~темплейт, темпа~~)
 
-[testing](https://laravel.com/docs/master/testing) - **тестирование** (~~тестинг~~)
+[testing](https://laravel.com/docs/master/testing) - **тестирование**
 
 toolbar - **панель инструментов**
 
@@ -218,10 +238,8 @@ unit-test — **модульные тесты**
 
 [unserialization](https://laravel.com/docs/master/eloquent-serialization) - **десериализация**
 
-[validation](https://laravel.com/docs/master/validation) - **валидация** (~~cверка, проверка~~)
+[validation](https://laravel.com/docs/master/validation) - **валидация, проверка**
 
 vendor - **вендор, поставщик?**
 
-view - **представление, вид** (~~вью~~)
-
-
+view - **представление, вид**
