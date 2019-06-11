@@ -84,7 +84,7 @@ fault tolerance - **отказоустойчивость**
 
 [firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события** (~~файринг, выстрел~~)
 
-fork - **ответвление**
+fork - **форк, ответвление**
 
 form - **форма**
 
@@ -96,9 +96,9 @@ framework - **фреймворк**
 
 header - **шапка** (в разметке), **заголовок** (в запросе, ответе)
 
-[helper](https://laravel.com/docs/master/helpers) - **помощник** (~~хэлпер~~)
+[helper](https://laravel.com/docs/master/helpers) - **помощник, хелпер** (~~хэлпер~~)
 
-[hook](https://laravel.com/docs/master/scheduling#task-hooks) - **хук? крюк?**
+[hook](https://laravel.com/docs/master/scheduling#task-hooks) - **хук?**
 
 [input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные** (~~инпут~~)
 
@@ -126,7 +126,7 @@ lifecycle - **жизненный цикл**
 
 [localization](https://laravel.com/docs/master/localization) - **локализация**
 
-log — **журнал**
+log — **лог, журнал**
 
 logging — **журналирование**
 
@@ -150,9 +150,9 @@ package - **пакет**
 
 [partial](https://laravel.com/docs/master/blade#control-structures) (routes, views) - **частичные** (~~паршлы~~)
 
-pattern - **шаблон**
+pattern - **паттерн, шаблон**
 
-production - **боевое окружение?**
+production - **продакшн, боевое окружение?**
 
 [query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
 
@@ -210,9 +210,9 @@ status bar - **строка состояния**
 
 toolbar - **панель инструментов**
 
-trait - **поведение**
+trait - **трейт, поведение**
 
-transaction - **транзация**
+transaction - **транзакция**
 
 unit-test — **модульные тесты**
 
@@ -220,7 +220,7 @@ unit-test — **модульные тесты**
 
 [validation](https://laravel.com/docs/master/validation) - **валидация** (~~cверка, проверка~~)
 
-vendor - **поставщик?** (~~вендор~~)
+vendor - **вендор, поставщик?**
 
 view - **представление, вид** (~~вью~~)
 
