@@ -200,7 +200,7 @@ release - **выпуск?** (~~релиз~~)
 
 service - **сервис**
 
-[service container, ioc](https://laravel.com/docs/master/container) - **контейнер** (~~сёрвис контейнер, иок~~)
+[service container, ioc](https://laravel.com/docs/master/container) - **сервис-контейнер** (~~сёрвис контейнер, иок~~)
 
 service layer - **сервисный слой**
 
