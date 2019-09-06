@@ -190,6 +190,8 @@ release - **выпуск?** (~~релиз~~)
 
 [routing](https://laravel.com/docs/master/routing) - **маршрутизация** (~~рутинг, роутинг, раутинг~~)
 
+[scaffolding] - **каркас**
+
 [schedule](https://laravel.com/docs/master/scheduling) - **раcписание** (~~скедул~~)
 
 [scope](https://laravel.com/docs/5.8/eloquent#query-scopes) - **скоуп**
