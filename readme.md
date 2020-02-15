@@ -1,3 +1,7 @@
+![Словарь терминов Laravel](/assets/laravel-dictionary.png?raw=true)
+
+---
+
 [accessor](https://laravel.com/docs/eloquent—mutators#accessors—and—mutators) — **читатель, метод доступа, аксессор**
 
 [action](https://laravel.com/docs/master/controllers#basic—controllers) — **действие** (~~экшн~~)
