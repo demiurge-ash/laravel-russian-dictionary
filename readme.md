@@ -70,6 +70,8 @@ condition — **условие**
 
 deploy — **развернуть (проект), задеплоить**
 
+eager loading  — **жадная загрузка**
+
 [encryption](https://laravel.com/docs/master/encryption) — **шифрование**
 
 enumeration — **перечисление**
